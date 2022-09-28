@@ -9,6 +9,7 @@ Login Page
 
 ![LoginPage](https://user-images.githubusercontent.com/70219430/186894704-5f4c1fe4-3a37-4844-9461-117fc591d714.png)
 
+<br>
 Navigation Bar
 
 ![ScreenClip](https://user-images.githubusercontent.com/70219430/186895161-609166d5-04a4-4aea-a6e5-0c4d25b256be.png)
